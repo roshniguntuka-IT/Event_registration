@@ -30,3 +30,6 @@ The application allows users to register for an event, view registered participa
 - Registration success message
 - LocalStorage for saving registration data
 - Responsive design for desktop, tablet, and mobile devices
+
+# Live Demo
+https://event-registration-lac-two.vercel.app/#participants
